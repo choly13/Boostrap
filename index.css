@@ -38,3 +38,9 @@ body {
  }
 @media (min-width: 576px){
 }
+img{
+width: 100%;
+heigth: 300px;
+object-fit: cover;
+objetc-position: bottom;
+}
