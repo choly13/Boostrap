@@ -1,24 +1,21 @@
-body {
-    box-sizing: content-box;
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px){
    
-  }
-
-.container {
- width: 50%;
- height: 50%;
 }
 
-
-.clearfix{
-  margin-top: 10px;
-  
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px){
+   
 }
 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px){
+        .card-img-top{
+            max-width: 50%;
+        }
+ }
 
- @media all and (max-width: 600px){
-  div{
-      width:100%;
-      height:auto;
-      margin-left:10px;
-  }
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px){
+
 }
