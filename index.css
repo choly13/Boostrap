@@ -1,3 +1,10 @@
+body{
+  background-color: black;
+  background: fixedgit;
+}
+
+
+
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px){
    
